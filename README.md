@@ -1,4 +1,4 @@
-# daily_update.p
+# daily_update.py
 from datetime import datetime
 
 print("Daily GitHub activity - Day 1")
